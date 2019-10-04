@@ -1,2 +1,2 @@
-# Creatiq-Art-Gallery
-Database management Systems project
+# Creatiq Art Gallery
+## Database management Systems project
